@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="drunkenbutton">DrunkenButton</string>
+    <string name="drunken_button">drunken button</string>
+</resources>
